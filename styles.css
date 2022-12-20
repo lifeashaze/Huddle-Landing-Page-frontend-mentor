@@ -45,6 +45,7 @@ body{
     font-size: 60px;
     width: 750px;
     line-height: 75px;
+    margin-bottom: 20px;
 
 }
 
@@ -54,6 +55,7 @@ body{
     color: white;
     width: 540px;
     line-height: 26px;
+    margin-bottom: 30px;
 }
 
 .main-content{
